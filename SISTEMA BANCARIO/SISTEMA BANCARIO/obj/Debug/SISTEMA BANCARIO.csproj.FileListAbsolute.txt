@@ -1,0 +1,6 @@
+C:\Users\loren\source\repos\SISTEMA BANCARIO\SISTEMA BANCARIO\bin\Debug\SISTEMA BANCARIO.dll
+C:\Users\loren\source\repos\SISTEMA BANCARIO\SISTEMA BANCARIO\bin\Debug\SISTEMA BANCARIO.pdb
+C:\Users\loren\source\repos\SISTEMA BANCARIO\SISTEMA BANCARIO\obj\Debug\SISTEMA BANCARIO.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\SISTEMA BANCARIO\SISTEMA BANCARIO\obj\Debug\SISTEMA BANCARIO.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\SISTEMA BANCARIO\SISTEMA BANCARIO\obj\Debug\SISTEMA BANCARIO.dll
+C:\Users\loren\source\repos\SISTEMA BANCARIO\SISTEMA BANCARIO\obj\Debug\SISTEMA BANCARIO.pdb

@@ -1,0 +1,10 @@
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\bin\Debug\Consola.exe.config
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\bin\Debug\Consola.exe
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\bin\Debug\Consola.pdb
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\bin\Debug\SISTEMA BANCARIO.dll
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\bin\Debug\SISTEMA BANCARIO.pdb
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\obj\Debug\Consola.csproj.Up2Date
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\obj\Debug\Consola.exe
+C:\Users\loren\source\repos\SISTEMA BANCARIO\Consola\obj\Debug\Consola.pdb

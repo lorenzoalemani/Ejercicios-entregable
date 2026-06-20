@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876C1928-F617-4B3F-8F9D-11E9BBE39C26}|Consola\\Consola.csproj|c:\\users\\loren\\source\\repos\\sistema bancario\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876C1928-F617-4B3F-8F9D-11E9BBE39C26}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE2B7BA-8F6E-4F0D-85C7-B028CA9AA096}|SISTEMA BANCARIO\\SISTEMA BANCARIO.csproj|c:\\users\\loren\\source\\repos\\sistema bancario\\sistema bancario\\cuenta estandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE2B7BA-8F6E-4F0D-85C7-B028CA9AA096}|SISTEMA BANCARIO\\SISTEMA BANCARIO.csproj|solutionrelative:sistema bancario\\cuenta estandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE2B7BA-8F6E-4F0D-85C7-B028CA9AA096}|SISTEMA BANCARIO\\SISTEMA BANCARIO.csproj|c:\\users\\loren\\source\\repos\\sistema bancario\\sistema bancario\\cuentaplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE2B7BA-8F6E-4F0D-85C7-B028CA9AA096}|SISTEMA BANCARIO\\SISTEMA BANCARIO.csproj|solutionrelative:sistema bancario\\cuentaplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE2B7BA-8F6E-4F0D-85C7-B028CA9AA096}|SISTEMA BANCARIO\\SISTEMA BANCARIO.csproj|c:\\users\\loren\\source\\repos\\sistema bancario\\sistema bancario\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE2B7BA-8F6E-4F0D-85C7-B028CA9AA096}|SISTEMA BANCARIO\\SISTEMA BANCARIO.csproj|solutionrelative:sistema bancario\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\Consola\\Program.cs",
+              "RelativeToolTip": "Consola\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwHwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:06:32.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaPlus.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\SISTEMA BANCARIO\\CuentaPlus.cs",
+              "RelativeDocumentMoniker": "SISTEMA BANCARIO\\CuentaPlus.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\SISTEMA BANCARIO\\CuentaPlus.cs",
+              "RelativeToolTip": "SISTEMA BANCARIO\\CuentaPlus.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:04:21.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cuenta estandar.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\SISTEMA BANCARIO\\cuenta estandar.cs",
+              "RelativeDocumentMoniker": "SISTEMA BANCARIO\\cuenta estandar.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\SISTEMA BANCARIO\\cuenta estandar.cs",
+              "RelativeToolTip": "SISTEMA BANCARIO\\cuenta estandar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:53:05.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\SISTEMA BANCARIO\\Class1.cs",
+              "RelativeDocumentMoniker": "SISTEMA BANCARIO\\Class1.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\SISTEMA BANCARIO\\SISTEMA BANCARIO\\Class1.cs",
+              "RelativeToolTip": "SISTEMA BANCARIO\\Class1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:51:01.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
